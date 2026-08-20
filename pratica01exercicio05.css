@@ -1,0 +1,16 @@
+h1{
+    font-size: 4rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.primeiro_paragrafo{
+    color: blue;
+}
+
+.segundo_paragrafo{
+    color: green;
+}
+
+.terceiro_paragrafo{
+    color: red;
+}
